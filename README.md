@@ -39,11 +39,11 @@ Password Strength Analyzer
 Bluetooth Device Scanner
 File Integrity Checker
 
-##Disclaimer
+## Disclaimer
 This repository is intended for educational and ethical research purposes only. Do not use these tools for unauthorized access or illegal activities.
 
-##License
+## License
 MIT License
 
-##Contributions
+## Contributions
 Feel free to contribute by submitting pull requests or reporting issues!
