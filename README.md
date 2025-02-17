@@ -23,13 +23,13 @@
    
 2. Navigate to the WifiScanner directory:
 ```sh
-cd CyberSec-Toolkit/WifiScanner
+   cd CyberSec-Toolkit/WifiScanner
 ```
 
 3. Compile and run:
 ```sh
-javac -cp .;jna.jar src/com/example/seleniumdemo/WifiScanner.java
-java -cp .;jna.jar com.example.seleniumdemo.WifiScanner
+   javac -cp .;jna.jar src/com/example/seleniumdemo/WifiScanner.java
+   java -cp .;jna.jar com.example.seleniumdemo.WifiScanner
 ```
 
 ## Future Tools (Planned)
