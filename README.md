@@ -46,4 +46,4 @@ This repository is intended for educational and ethical research purposes only. 
 MIT License
 
 ## Contributions
-Feel free to contribute by submitting pull requests or reporting issues!
+Feel free to contribute by submitting pull requests or reporting issues! 
