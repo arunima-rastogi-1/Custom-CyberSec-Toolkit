@@ -4,7 +4,7 @@
 **CyberSec-Toolkit** is a collection of cybersecurity-related tools designed for ethical hacking, penetration testing, and security research. The first tool in this repository is **WiFi Scanner**, a Java-based utility that scans available WiFi networks on a Windows machine using the Windows WLAN API via JNA.
 
 ## Features
-- Enumerates available WiFi interfaces.
+- Enumerates available WiFi interfaces.  
 - Scans for nearby WiFi networks.
 - Uses **Java Native Access (JNA)** to interact with the Windows WLAN API.
 - Works on Windows without requiring external dependencies.
