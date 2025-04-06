@@ -41,7 +41,7 @@ File Integrity Checker
 
 ## Disclaimer
 This repository is intended for educational and ethical research purposes only. Do not use these tools for unauthorized access or illegal activities.
-
+  
 ## License
 MIT License
 
