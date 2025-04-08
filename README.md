@@ -10,7 +10,7 @@
 - Works on Windows without requiring external dependencies.
 
 ## Installation & Usage
-
+ 
 ### Prerequisites
 - **Java 8+** installed
 - **JNA Library** (`com.sun.jna`)
