@@ -5,7 +5,7 @@
    
 ## Features 
 - Enumerates available WiFi interfaces.     
-- Scans for nearby WiFi networks.
+- Scans for nearby WiFi networks. 
 - Uses **Java Native Access (JNA)** to interact with the Windows WLAN API.
 - Works on Windows without requiring external dependencies.
 
